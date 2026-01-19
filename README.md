@@ -1,3 +1,4 @@
+![Dashboard Main View](GeneralDashboard.png)
 # 📱 Repair Operations & Quality Analytics Dashboard
 
 This project provides a comprehensive look into technical service/production line efficiency. It focuses on identifying process bottlenecks and quality issues through data-driven insights.
