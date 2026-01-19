@@ -1,0 +1,11 @@
+Genel Durum - GeneralDashboard.png
+>"Kritik Operasyonel Görünüm:" Bu panel, hattaki toplam iş hacmini ve başarı oranını (%100.00) anlık olarak izlemeyi sağlar. Sol taraftaki dinamik filtreler sayesinde model bazlı performans takibi yapılarak, hangi modellerin operasyonel yük oluşturduğu saniyeler içinde analiz edilebilir.
+
+Hata Frekansları - Station Performance_Pareto Analysis.png
+>"Pareto ve İstasyon Bazlı Hata Analizi:" Pareto prensibini (80/20 kuralı) uygulayarak, toplam hataların büyük çoğunluğuna sebep olan 'ICT' ve 'BT' gibi kritik istasyonları önceliklendirdim. Bu grafik, kaynakların (personel veya bakım) hangi istasyonlara aktarılması gerektiğini net bir şekilde ortaya koyuyor.
+
+Repeat Fail - Quality Control_Repeat Fail Analysis.png
+>"Kalite Kayıpları (Tekrarlayan Hatalar):" Aynı cihazın birden fazla kez onarıma gelmesi hem maliyet hem güven kaybıdır. Bu analizle, FUNCTION_4 gibi istasyonlarda tekrarlayan hata oranının yüksek olduğunu saptadım. Bu durum, ya test cihazlarının kalibrasyon ihtiyacını ya da o bölgedeki operatör eğitiminin yetersizliğini göstermektedir.
+
+Akış ve Bekleme Süresi - Bottleneck Identification_Waiting Times (Flow).png
+>"Süreç Darboğazı (Bottleneck) Analizi:" Akış şemasındaki ortalama ve medyan bekleme sürelerini karşılaştırdım. Özellikle Output -> Back to Production arasındaki devasa bekleme süresi (6894 dk), operasyonun en zayıf halkasıdır. Bu darboğazın çözülmesi, toplam teslimat süresini (Lead Time) doğrudan %30-40 oranında iyileştirebilir.
